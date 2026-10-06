@@ -1,0 +1,51 @@
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRU
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\CIDSizeMRU
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Tracing\
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Clients\StartMenuInternet
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+
+Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\DirectInput\MostRecentApplication
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+
+HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
+
+
+# USB finding
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Search\VolumeInfoCache
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\USBSTOR
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Enum\STORAGE\Volume
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\MountedDevices
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\bam\State\UserSettings\S-1-5-21-3857190006-3109216204-2901804181-500
+
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage\AppSwitched
+
+
+HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\Shell\MuiCache
+
+
+HKEY_CURRENT_USER\SOFTWARE\WinRAR\DialogEditHistory\ExtrPath
+
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Tracing
